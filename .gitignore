@@ -27,3 +27,7 @@ db.mv.db
 
 akka-context/
 .claude/settings.local.json
+
+.git-bak
+
+.github-bak
